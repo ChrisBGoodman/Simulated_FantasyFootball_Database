@@ -1,1 +1,1 @@
-This is a simulated database of the ESPN fantasy football web app. 
+This is a simulated database of the ESPN fantasy football web app. Still a work in progress. Currently working on loading the data from all 32 teams, players, coaches, etc..
