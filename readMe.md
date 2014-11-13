@@ -1,0 +1,1 @@
+This is a simulated database of the ESPN fantasy football web app. 
